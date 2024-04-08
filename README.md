@@ -114,5 +114,10 @@ This guide outlines the steps to set up and use the Algae-based Carbon Sequestra
 
 By following these steps, you can effectively set up and use the Algae-based Carbon Sequestration Policy to manage carbon sequestration projects, mint tokens, and ensure the integrity of the process.
 
+## Getting Started
+
+To use this policy, setup a Guardian Managed Service account as an admin, and add a user-tenant, and enter the policy screen. Once there, import the .policy file using the wizard. Check the schemas section and edit and then save the damage-reports-schema file manually to ensure it is working properly. Then to run the test go to the policies page and select the dry run drop down (from draft), and hit Register. Then follow the steps above. Note that due to potential system issues the steps to view the Damage Report screens after the VVB submits a new damage report may not display correctly. This version is not for full production or commercial use and is a prototype only for illustrative purposes.
+
+For more information and updates, please visit our [https://www.ecoregen.earth/](#) or contact our support team. This methodology is part of a wider ecosystem of activity, which is still in its early stages of development. You can find out more about it and our longer term vision and roadmap at our git here [https://github.com/EcoRegen-Alliance/DLT-Climate-hackathon-entry](#).
 
 For more information and updates, please visit our [https://www.ecoregen.earth/](#) or contact our support team. This methodology is part of a wider ecosystem of activity, which is still in its early stages of development. You can find out more about it and our longer term vision and roadmap at our git here [https://github.com/EcoRegen-Alliance/DLT-Climate-hackathon-entry](#).
