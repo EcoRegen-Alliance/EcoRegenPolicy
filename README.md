@@ -28,7 +28,7 @@ The core of our methodology focuses on the carbon absorption capabilities of alg
 
 ## Demo Video
 
-[https://youtu.be/p7ttrVuw27E](#)
+[[https://youtu.be/p7ttrVuw27E](https://youtu.be/dDNxUK2bs-M?si=EBVXIEVtbyxKsICy)](#)
 
 ## Policy Workflow
 
